@@ -1,0 +1,22 @@
+{
+  "name": "3.name-cases",
+  "version": "2.0.2",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.19",
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}

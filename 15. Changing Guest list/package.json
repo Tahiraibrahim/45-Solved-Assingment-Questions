@@ -1,0 +1,23 @@
+{
+  "name": "15.-changing-guest-list",
+  "version": "2.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tahira Ibrahim",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.19"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "17.-shrinking-guest-list",
+  "version": "2.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tahira Ibrahim",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7",
+    "inquirer": "^9.2.19"
+  }
+}
